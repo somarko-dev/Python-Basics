@@ -1,4 +1,4 @@
-# Python Basics 🚀
+# Python Basics 
 
 This repository documents my Python learning journey — from fundamentals to more advanced concepts — with structured code, practice problems, and mini projects.
 
@@ -83,15 +83,11 @@ This repository documents my Python learning journey — from fundamentals to mo
 
 ---
 
-# What I’m Learning
-
-* Core Python fundamentals
-* Problem-solving and logic building
-* Writing clean, structured, and readable code
-* Preparing for:
-
-  * Cybersecurity 
-  * Cloud Computing 
+# Skills I'm Building
+* Python programming
+* Data analysis (Pandas, NumPy)
+* Data visualization (Matplotlib)
+* Basic machine learning
 
 ---
 
@@ -119,9 +115,8 @@ This repository documents my Python learning journey — from fundamentals to mo
 
 To build a strong programming foundation and transition into:
 
-* Cloud Engineering
-* Cybersecurity
-* Real-world projects
+* Data Science
+* Artificial Intelligence
 
 ---
 
