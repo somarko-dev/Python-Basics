@@ -43,8 +43,7 @@ This repository documents my Python learning journey — from fundamentals to mo
 
 ---
 
-#🔷 Chapter 5: Dictionaries & Sets *(Upcoming)*
-
+#🔷 Chapter 5: Dictionaries & Sets 
 * Key-value pairs
 * Dictionary methods
 * Set operations
@@ -52,7 +51,7 @@ This repository documents my Python learning journey — from fundamentals to mo
 
 ---
 
-#🔷 Chapter 6: Conditions *(Upcoming)*
+#🔷 Chapter 6: Conditions 
 
 * if, elif, else
 * Logical decision making
